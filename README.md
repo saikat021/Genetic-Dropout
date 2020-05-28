@@ -7,15 +7,15 @@ We propose a new modification to the dropout strategy called the Genetic Dropout
 ## Flowchart:
 ![](read.PNG)
 ## Authors:
-**Saikat Chakraborty**(***Department of Electronics & Telecommunication Engineering, Jadavpur University, Kolkata, India***),
+**Saikat Chakraborty**(Department of Electronics & Telecommunication Engineering, Jadavpur University, Kolkata, India),
 
-**Riktim Mondal**(***Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
+**Riktim Mondal**(Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
 
-**Ram Sarkar**(***Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
+**Ram Sarkar**(Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
 
-**Mita Nasipuri**(***Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
+**Mita Nasipuri**(Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
 
-**Pawan Kumar Singh**(***Department of Information Technology, Jadavpur University, Kolkata, India).
+**Pawan Kumar Singh**(Department of Information Technology, Jadavpur University, Kolkata, India).
 
  
  
