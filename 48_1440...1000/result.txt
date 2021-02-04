@@ -1,3 +1,0 @@
-8ga_drop---->0.8333
-inverted_dropout----->0.8777
-normal_feed_fwd--->0.866

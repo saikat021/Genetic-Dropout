@@ -1,3 +1,0 @@
-ga_drop--->0.9000
-dropout_nmormal--->0.9000
-normal_feed_fw----->0.9000
