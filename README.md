@@ -6,6 +6,8 @@ A new  modification to dropout regularization scheme using genetic algorithm and
 We propose a new modification to the dropout strategy called the Genetic Dropout which very efficiently provides attention to only those neurons which perform well and makes them even better thus making the dropout layer more smarter and robust. This, in some cases, provides promising results and it has successfully reduced the learnable parameters of the NN making it more concise and efficient. Previously defined features from the script identification dataset are used for training the NN.
 ## Flowchart:
 ![](read.PNG)
+## Algorithm:
+![](algo.PNG)
 ## Authors:
 **Saikat Chakraborty**(Department of Electronics & Telecommunication Engineering, Jadavpur University, Kolkata, India),
 
