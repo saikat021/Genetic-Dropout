@@ -12,13 +12,13 @@ We propose a new modification to the dropout strategy called the Genetic Dropout
 ![](algo.PNG)
 ## Using this Repo:
 ### Follow the following steps to run a NN using genetic dropout
-### 1. Clone the github repo by running the command **git clone https://github.com/saikat021/Genetic-Dropout.git** or by downloading .zip\
-### 2. Run the command **pip install -r Requirements.txt**
-### 3. change the path of data .csv file in control.py
-### 4. Run the command **python control.py**
+1. Clone the github repo by running the command **git clone https://github.com/saikat021/Genetic-Dropout.git** or by downloading .zip\
+2. Run the command **pip install -r Requirements.txt**
+3. change the path of data .csv file in control.py
+4. Run the command **python control.py**
 ## Authors:
-**Saikat Chakraborty**(Department of Electronics & Telecommunication Engineering, Jadavpur University, Kolkata, India),
-**Riktim Mondal**(Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
+**Saikat Chakraborty[https://github.com/saikat021]**(Department of Electronics & Telecommunication Engineering, Jadavpur University, Kolkata, India),
+**Riktim Mondal[https://github.com/riktimmondal]**(Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
 **Ram Sarkar**(Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
 **Mita Nasipuri**(Department of Computer Science and Engineering, Jadavpur University, Kolkata, India),
 **Pawan Kumar Singh**(Department of Information Technology, Jadavpur University, Kolkata, India).
