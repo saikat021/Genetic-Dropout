@@ -1,5 +1,5 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)]
-
+![](https://img.shields.io/pypi/pyversions/django.svg)
 
 # Genetic-Dropout
 A new  modification to dropout regularization scheme using genetic algorithm and validated on script identification data
